@@ -1,2 +1,10 @@
-# California_Wildfire_Intensity_Explanation
-Saw the effect of weathers parameters on the intensity of California wildfire. For this we used EazyML APIs.
+Description
+A python code to understand the California wildfire. 
+
+## Prerequisites
+Get the EazyML client library 
+https://github.com/EazyML/eazyml-client.
+
+## File to run
+Download this file in the same repository where you have the EazyML files and then run this file.
+python Wildfire_Project.py
